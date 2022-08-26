@@ -22,6 +22,5 @@ class Solution:
                 skip = False
         return totalSum
 
-print(Solution().romanToInt("MMMMCXCIII"))
 
 
