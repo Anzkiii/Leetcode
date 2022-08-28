@@ -7,5 +7,5 @@ class Solution:
                 return True
             numLimiter += 1
         return False
-print(Solution().isPowerOfThree(27))
+
 
