@@ -16,3 +16,6 @@ https://leetcode.com/problems/palindrome-number/
 problem5.py
 https://leetcode.com/problems/longest-common-prefix/
 
+problem6.py
+https://leetcode.com/problems/two-sum/
+
